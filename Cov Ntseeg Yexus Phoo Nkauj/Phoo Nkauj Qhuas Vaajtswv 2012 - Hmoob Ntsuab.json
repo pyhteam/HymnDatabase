@@ -1,9 +1,9 @@
 {
-    "Id": 1,
-    "Name": "Cov Ntseeg Yexus Phoo Nkauj 2012 - Hmoob Ntsuab",
-    "NameFull": "HKM Phoo Nkauj Qhuas Vaajtswv 2012 3/4/2016-3/26/2017",
-    "Type": 1,
-    "Hymns": [
+    "id": 1,
+    "name": "Cov Ntseeg Yexus Phoo Nkauj 2012 - Hmoob Ntsuab",
+    "name_full": "HKM Phoo Nkauj Qhuas Vaajtswv 2012 3/4/2016-3/26/2017",
+    "type": 1,
+    "hymns": [
         {
             "id": 1,
             "label": 1,
@@ -11447,3 +11447,4 @@
         }
     ]
 }
+
